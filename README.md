@@ -2,6 +2,7 @@
 # placeholder-image-generator
 
 helps to generate placeholder images.
+[Click Here For Link](https://jaymodicr12.github.io/placeholder-image-generator/)
 
 ## ChangeLog 
 
